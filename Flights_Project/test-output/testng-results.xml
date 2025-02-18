@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-14T01:20:57 IST" name="Default suite" finished-at="2025-02-14T01:21:05 IST" duration-ms="7585">
+  <suite started-at="2025-02-14T16:42:13 IST" name="Default suite" finished-at="2025-02-14T16:42:16 IST" duration-ms="3240">
     <groups>
     </groups>
-    <test started-at="2025-02-14T01:20:57 IST" name="Default test" finished-at="2025-02-14T01:21:05 IST" duration-ms="7585">
-      <class name="flights_testcases.Book_Flight1">
-        <test-method is-config="true" signature="launchApp()[pri:0, instance:flights_testcases.Book_Flight1@783a467b]" started-at="2025-02-14T01:20:53 IST" name="launchApp" finished-at="2025-02-14T01:20:57 IST" duration-ms="4197" status="PASS">
+    <test started-at="2025-02-14T16:42:13 IST" name="Default test" finished-at="2025-02-14T16:42:16 IST" duration-ms="3240">
+      <class name="flights_testcases.NewUserReg">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:flights_testcases.NewUserReg@7db12bb6]" started-at="2025-02-14T16:42:02 IST" name="launchApp" finished-at="2025-02-14T16:42:13 IST" duration-ms="11396" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApp -->
-        <test-method signature="user_able_to_book_flight()[pri:0, instance:flights_testcases.Book_Flight1@783a467b]" started-at="2025-02-14T01:20:57 IST" name="user_able_to_book_flight" finished-at="2025-02-14T01:21:05 IST" duration-ms="7538" status="PASS">
+        <test-method signature="cretateUser()[pri:0, instance:flights_testcases.NewUserReg@7db12bb6]" started-at="2025-02-14T16:42:13 IST" name="cretateUser" finished-at="2025-02-14T16:42:16 IST" duration-ms="3146" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- user_able_to_book_flight -->
-        <test-method is-config="true" signature="closeApp()[pri:0, instance:flights_testcases.Book_Flight1@783a467b]" started-at="2025-02-14T01:21:05 IST" name="closeApp" finished-at="2025-02-14T01:21:05 IST" duration-ms="204" status="PASS">
+        </test-method> <!-- cretateUser -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:flights_testcases.NewUserReg@7db12bb6]" started-at="2025-02-14T16:42:17 IST" name="closeApp" finished-at="2025-02-14T16:42:17 IST" duration-ms="311" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
-      </class> <!-- flights_testcases.Book_Flight1 -->
+      </class> <!-- flights_testcases.NewUserReg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
